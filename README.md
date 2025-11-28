@@ -1,11 +1,9 @@
-# proskopoi
-<!DOCTYPE html>
+# Πρόκληση Ενωμοτιών
 <html lang="el">
 
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Πρόκληση Ενωμοτιών</title>
 
     <style>
         body {
