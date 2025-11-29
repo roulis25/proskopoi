@@ -93,7 +93,7 @@
 <body>
     <div class="container">
 
-        <h1>Πρόκληση Ενωμοτιών</h1>
+        <h1>Τι σημαίνω?</h1>
 
         <!-- ΕΔΩ ΕΙΝΑΙ Η ΕΡΩΤΗΣΗ -->
         <div id="questionText" class="question">
