@@ -105,10 +105,9 @@
             <label for="patrolSelect">Διάλεξε Ενωμοτία</label>
             <select id="patrolSelect" required>
                 <option value="">-- Διάλεξε --</option>
-                <option value="lion">Λιοντάρια</option>
-                <option value="wolf">Λύκοι</option>
-                <option value="eagle">Αετοί</option>
-                <option value="dolphin">Δελφίνια</option>
+                <option value="wolf">Σκίουροι</option>
+                <option value="eagle">Γεράκια</option>
+                <option value="dolphin">Νυχτερίδες</option>
             </select>
 
             <label for="answerInput">Απάντηση</label>
@@ -120,7 +119,7 @@
         <div id="message" class="message"></div>
 
         <div id="imageWrapper" class="image-wrapper">
-            <img id="patrolImage" src="αγια φωτεινη.png" alt="Εικόνα Ενωμοτίας">
+            <img id="patrolImage" src="αγια φωτεινη.png" alt="Εικόνα">
         </div>
 
     </div>
@@ -132,7 +131,6 @@
 
         // Εικόνες ανά ενωμοτία
         const patrolImages = {
-            lion: "αγια φωτεινη.png",
             wolf: "αγια φωτεινη.png",
             eagle: "αγια φωτεινη.png",
             dolphin: "αγια φωτεινη.png"
